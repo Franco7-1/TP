@@ -1,4 +1,5 @@
-# TP
+# TP Programacion Avanzada 
+
 Somos de la comicion 1, Grupo 16 y en este trabajo práctico vamos a presentar cómo se utiliza SQLAlchemy, una biblioteca de Python que permite interactuar con bases de datos de manera eficiente y organizada. SQLAlchemy combina la potencia del lenguaje SQL con la simplicidad de la programación orientada a objetos, permitiéndonos representar tablas como clases y filas como objetos.
 
 A lo largo del trabajo vamos a mostrar cómo definimos modelos usando clases, cómo se crean relaciones entre ellas y cómo se realizan operaciones como inserciones, consultas, actualizaciones y eliminaciones de datos, todo desde Python y sin necesidad de escribir sentencias SQL de forma directa.
